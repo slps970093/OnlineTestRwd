@@ -1,0 +1,25 @@
+@font-face{
+  font-family:NotoSansCJKtc-Medium;
+  src: url(../fonts/NotoSansCJKtc-Medium.otf) format("opentype");
+}
+@font-face{
+  font-family:NotoSansCJKtc-Medium;
+  src: url(fonts/NotoSansCJKtc-Bold.otf) format("opentype");
+}
+.editView {
+  background: #FFFFFF;
+  border-radius: 10px;
+  padding: 2%; }
+  .editView #createTest h3 {
+    text-align: center; }
+  .editView .questionList {
+    background-color: #00f7ff;
+    padding: 1.5%; }
+    .editView .questionList h4 {
+      color: #668681; }
+
+body {
+  background-color: #0077ff; 
+  font-family: NotoSansTC_Black;}
+
+/*# sourceMappingURL=admin_edit_test.css.map */

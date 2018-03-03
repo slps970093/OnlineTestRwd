@@ -1,0 +1,19 @@
+@font-face{
+  font-family:NotoSansCJKtc-Medium;
+  src: url(../fonts/NotoSansCJKtc-Medium.otf) format("opentype");
+}
+body {
+  background-color: #5f5f5f;
+  font-family: 'NotoSansCJKtc-Medium'; }
+
+.container .login {
+  width: 100%;
+  padding: 1.5%;
+  background-color: #FFF; }
+
+footer {
+  background-color: #a0c4ff;
+  text-align: center;
+  padding: 1.5%; }
+
+/*# sourceMappingURL=login.css.map */

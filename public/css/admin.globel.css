@@ -1,0 +1,13 @@
+@font-face{
+    font-family:NotoSansCJKtc-Medium;
+    src: url(../fonts/NotoSansCJKtc-Medium.otf) format("opentype");
+  }
+@font-face{
+    font-family:NotoSansCJKtc-Bold;
+    src: url(../fonts/NotoSansCJKtc-Bold.otf) format("opentype");
+}
+body{
+    background-color: #d3cabe;
+    font-family: NotoSansCJKtc-Medium;
+    color: #000000;
+}
